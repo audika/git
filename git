@@ -1,0 +1,67 @@
+Pengangguran Sukses, [09.10.19 11:37]
+### Keybase proof
+
+I hereby claim:
+
+  * I am audika on github.
+  * I am zusuranz (https://keybase.io/zusuranz) on keybase.
+  * I have a public key ASCBzRO6kqWxbbkyaU05ghRA8ye52QSRRy3SVv0PERcSrwo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012081cd13ba92a5b16db932694d39821440f327b9d90491472dd256fd0f111712af0a",
+      "host": "keybase.io",
+      "kid": "012081cd13ba92a5b16db932694d39821440f327b9d90491472dd256fd0f111712af0a",
+      "uid": "a94aaa2f80ffe6f14668bf324d707619",
+      "username": "zusuranz"
+    },
+    "merkle_root": {
+      "ctime": 1570595710,
+      "hash": "b45bc4e7ba3e1bea7d78a7089320948e4cd72562fd21066660ebbcb69382f5d94eb1860861943541eb411d096c52d61e0701122c8edd583a772926949f13edaf",
+      "hash_meta": "3520e3592127bbe4756d072c17d0123cfd2fd86381880bc9f8093023119a3c98",
+      "seqno": 7922260
+    },
+    "service": {
+      "entropy": "g5w90D6WzqxBdi6pszQQSOxQ",
+      "name": "github",
+      "username": "audika"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570595785,
+  "expire_in": 504576000,
+  "prev": "1fd369411fb8316b9b409ef3e0e5ce490ff28d66e78e8c911d2406d6d925019c",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+
+with the key [ASCBzRO6kqWxbbkyaU05ghRA8ye52QSRRy3SVv0PERcSrwo](https://keybase.io/zusuranz), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggc0TupKlsW25MmlNOYIUQPMnudkEkUct0lb9DxEXEq8Kp3BheWxvYWTESpcCCsQgH9NpQR+4MWubQJ7z4OXOSQ/yjWbnjoyRHSQG1tklAZzEIHaeohqFw+168kdgZzf0nFxw1Gr0zqj/ujNdTOo7F3UDAgHCo3NpZ8RAaoY8z+KzABNq4pjUzOn/jSr1cJmcgWm0zdBkmUyMP/YuD0LPdZorS03lOHvlqKkPLkB2ZH1ELGlnIm/rz0Q1CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO0Xyp0TLNgJPCGK/Fb0T3HVC3WRDewMGIImU/O5BtMLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/zusuranz
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id zusuranz
